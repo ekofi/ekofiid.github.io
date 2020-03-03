@@ -1,37 +1,35 @@
 #-------------------------------
 # General Site Settings
-title: Zolan
-logo: logo.svg # You can add own logo.
-description: Zolan is modern minimal theme for Jekyll
+title: Ekofi ID
+logo:  # You can add own logo.
+description: Ekofi ID login system
 
 
 #-------------------------------
 # Author Settings
 author:
-  name: Alex Rodriguez
+  name: Ekofi ID
   image: 01.jpg
-  say-hello: Hello, I’m <strong>Alex Rodriguez</strong>
-  bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  say-hello: This is <strong>Ekofi ID</strong>
+  bio: New generation login system.
 
 
 #-------------------------------
 # Contact links
-twitter: https://twitter.com/ # Add your Twitter handle
-facebook: https://facebook.com/ # Add your Facebook handle
-dribbble: https://dribbble.com/ # Add your Dribbble handle
-instagram: https://instagram.com/ # Add your Instagram handle
-pinterest: https://pinterest.com/ # Add your Pinterest handle
+twitter: https://twitter.com/ekofibilim # Add your Twitter handle
+facebook: https://facebook.com/ekofibilim # Add your Facebook handle
+instagram: https://instagram.com/ekofibilim # Add your Instagram handle
 
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+
 
 
 #-------------------------------
 # Instagram Feed
 instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
-instagram-profile: artemsheludko_ # Add instagram username
+instagram-profile: ekofibilim # Add instagram username
 
 
 #-------------------------------
